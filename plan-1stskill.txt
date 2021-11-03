@@ -1,0 +1,5 @@
+Skill yang harus saya kuasai ke depan :
+1. Java :
+  - Pemilihan
+  - Looping
+  - Array

@@ -3,3 +3,5 @@ Skill yang harus saya kuasai ke depan :
   - Pemilihan
   - Looping
   - Array
+2. HTML :
+  - Dasar HTML
